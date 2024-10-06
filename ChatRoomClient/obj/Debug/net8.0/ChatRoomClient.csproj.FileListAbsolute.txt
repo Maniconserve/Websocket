@@ -1,0 +1,14 @@
+C:\Users\Mani Deep\source\repos\ChatRoomClient\bin\Debug\net8.0\ChatRoomClient.exe
+C:\Users\Mani Deep\source\repos\ChatRoomClient\bin\Debug\net8.0\ChatRoomClient.deps.json
+C:\Users\Mani Deep\source\repos\ChatRoomClient\bin\Debug\net8.0\ChatRoomClient.runtimeconfig.json
+C:\Users\Mani Deep\source\repos\ChatRoomClient\bin\Debug\net8.0\ChatRoomClient.dll
+C:\Users\Mani Deep\source\repos\ChatRoomClient\bin\Debug\net8.0\ChatRoomClient.pdb
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ChatRoomClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ChatRoomClient.AssemblyInfoInputs.cache
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ChatRoomClient.AssemblyInfo.cs
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ChatRoomClient.csproj.CoreCompileInputs.cache
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ChatRoomClient.dll
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\refint\ChatRoomClient.dll
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ChatRoomClient.pdb
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ChatRoomClient.genruntimeconfig.cache
+C:\Users\Mani Deep\source\repos\ChatRoomClient\obj\Debug\net8.0\ref\ChatRoomClient.dll
